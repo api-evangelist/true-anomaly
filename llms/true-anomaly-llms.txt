@@ -1,0 +1,21 @@
+# True Anomaly
+
+> True Anomaly is a defense-technology company building spacecraft, software, and payloads for space superiority. It has no public API, developer portal, or SDK; this profile tracks the company's public and machine-readable surface for the API Evangelist network.
+
+## Company
+- [Website](https://www.trueanomaly.space/): Space-superiority spacecraft (Jackal) and autonomy software (Mosaic) for defense customers.
+- [Newsroom](https://www.trueanomaly.space/news-content): Company news and announcements.
+- [Careers](https://www.trueanomaly.space/careers): Open roles.
+
+## Security
+- [security.txt](https://www.trueanomaly.space/.well-known/security.txt): RFC 9116 vulnerability-disclosure contact (disclosure@trueanomaly.space).
+- [PGP key](https://trueanomaly.space/.well-known/pgp-key.txt): Encryption key for disclosure reports.
+
+## Legal
+- [Terms & Conditions](https://www.trueanomaly.space/legal/terms-and-conditions)
+- [Privacy Policy](https://www.trueanomaly.space/legal/privacy-policy)
+- [Cookies Policy](https://www.trueanomaly.space/legal/cookies-policy)
+
+## Notes
+- No public API, OpenAPI/AsyncAPI spec, SDK, MCP server, or developer documentation is published.
+- Machine-readable public surface is limited to /.well-known/security.txt and its PGP key.

@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.trueanomaly.space/.well-known/
+host: https://www.trueanomaly.space
+documents:
+  - path: /.well-known/security.txt          # RFC 9116
+    status: 200
+    file: true-anomaly-security.txt
+  - path: /.well-known/pgp-key.txt            # PGP encryption key referenced by security.txt
+    status: 200
+  - path: /.well-known/openid-configuration   # OIDC discovery
+    status: 404
+  - path: /.well-known/oauth-authorization-server  # RFC 8414
+    status: 404
+  - path: /.well-known/api-catalog            # RFC 9727
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404

@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:disclosure@trueanomaly.space
+Expires: 2027-07-15T17:47:00.000Z
+Encryption: https://trueanomaly.space/.well-known/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://trueanomaly.space/.well-known/security.txt
+Hiring: https://www.trueanomaly.space/careers
+-----BEGIN PGP SIGNATURE-----
+
+iQJtBAEBCABXFiEEY3VVPolSP2G3vFX5s9ZudbRDqdIFAmpXyoMbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzHRxkaXNjbG9zdXJlQHRydWVhbm9tYWx5LnNwYWNl
+AAoJELPWbnW0Q6nSXOIP/2JqhydyUdDW5F7apeG0DktJLBwaF8zHMcCEK4jjEex/
+/vKMt9dSDeLxPpQ+1bo2lo81U3yMP7VL5tlSHJ7Eys5yUex6PA7RrCrl/zY60TGA
+tTPhE9DTGg8aW2sIi24yRyfVdXDKG1dXTGvBaQCJO2mEXPrc5FULyF4jOAgGDcN/
+RqToK2J+CHMQXQiYjei7rq+Wpj8lBMGywNz4oUTHv1ZWuuv5YO8hbmtbXMdOgA1K
+8LOkm76jiSyuS2/z+3IxxQLMqbsLKBbtesMBowm3JxxZMpuNIhCV1KS1OYLLeitx
+gYGTizX2A+l6HZ0gcvbkVc+2s+c37aRk5zcFpHrDuLiDiJuBAV1JHQU0X5JNc6an
+wsO51FO6H7zSjceVph9T7BiehmklzNGzgZRzT17deEvBilHf7JQBSsHX11EwVQur
+i/8WFW3VoiQuDdpZVbKx69N4BD+zLRG0ohWLNrRONHYvHnC2yF1AFPjzSo7wOPs9
+oJ8//qrPtj8jh9+VL+AIaLp9O+7I4TU/So41rLLpTGRT5M6B0mExSsY/ycbgoIMe
+08dIWZ4RRh8IuyKDDbAmQBKT3MtnGL/Q7YZwcAGODEjYJ73bq8IUCAC9Msjlj1LV
+ku1TSjXSSrz5QQignn2m7TPNBzshZWZeBXvs+A9OzfM3FgPdnvD7Ga/fLC237OsA
+=N11w
+-----END PGP SIGNATURE-----

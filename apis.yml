@@ -1,8 +1,25 @@
 aid: true-anomaly
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/true-anomaly.png
 name: True Anomaly
-description: 'True Anomaly is a company surfaced as a portfolio company of accel, menlo-ventures, paradigm
-  and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'True Anomaly is a defense-technology company building spacecraft, software,
+  and payloads for space superiority. Its products include Jackal, a multirole space-superiority
+  platform positioned as a tactical fighter-interceptor for contested orbital environments,
+  and Mosaic, an autonomy software platform that transforms commander intent into autonomous
+  action. The company serves U.S. government and allied defense customers from facilities
+  in Centennial and Colorado Springs, Colorado; Long Beach, California; and Washington,
+  DC. True Anomaly publishes no public API, developer portal, or SDK; its only machine-readable
+  public surface is an RFC 9116 security.txt vulnerability-disclosure contact.'
 url: https://raw.githubusercontent.com/api-evangelist/true-anomaly/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-- Ai
+- Space
+- Defense
+- Aerospace
+- Autonomy
+- Software
+- National Security
+- Spacecraft
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +50,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.trueanomaly.space/
+- type: Blog
+  url: https://www.trueanomaly.space/news-content
+- type: TermsOfService
+  url: https://www.trueanomaly.space/legal/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.trueanomaly.space/legal/privacy-policy
+- type: WellKnown
+  url: well-known/true-anomaly-well-known.yml
+- type: SecurityTxt
+  url: well-known/true-anomaly-security.txt
+- type: Security
+  url: https://www.trueanomaly.space/.well-known/security.txt
+- type: VulnerabilityDisclosure
+  url: security/true-anomaly-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/true-anomaly-domain-security.yml
+- type: LLMsTxt
+  url: llms/true-anomaly-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
